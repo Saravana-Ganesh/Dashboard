@@ -1,5 +1,5 @@
 # Dashboard
-# To run Angular application install the follwing modules
+# To run following commands in Angular cli before running the project
 # npm install jspdf 
 # npm install html2canvas
 # npm install ng2-charts
